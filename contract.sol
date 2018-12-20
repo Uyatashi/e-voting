@@ -38,4 +38,11 @@ contract votingProtocol {
     //Authenticate the voter
 
   }
+
+  //Returns the list of candidates for the election with their public keys
+  function getCandidateList() public {
+
+  }
+
+
 }
