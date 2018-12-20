@@ -6,4 +6,6 @@ Anonymous Voting System"(2018) by Wei-Jr Lai and Ja-Ling Wu from National Taiwan
 The literature used can be found in the papers directory.
 
 Credits:
-Matheus Faria de Alencar (https://github.com/visus-network/ot-ring-signature)
+Matheus Faria de Alencar 
+(https://github.com/visus-network/ot-ring-signature)
+(https://github.com/visus-network/stealth-addresses-protocol)
