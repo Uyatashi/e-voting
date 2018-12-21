@@ -2,3 +2,4 @@
 configEnvScript.sh
 
 *.json
+./node_modules/ot-ring-singatures/node_modules/*
